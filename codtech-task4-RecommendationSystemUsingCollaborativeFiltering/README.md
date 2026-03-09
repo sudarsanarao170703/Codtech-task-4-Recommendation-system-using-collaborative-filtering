@@ -38,6 +38,6 @@ Numpy – Numerical operations
 Scikit-learn – Cosine similarity for item-based filtering
 
 ## 🙋‍♂️ Author
-Amit Ramchandra Mali
+GONDU SUDARSANA RAO
 CodTech Internship – Task 4
 
